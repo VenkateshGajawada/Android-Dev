@@ -17,3 +17,7 @@ git log --stat (gives the statistics)
 
 installed GIT on my system...
 
+git config --global user.email "gajawada.venky@gmail.com"
+git config --global user.name "venkatesh Gupta"
+
+testing
