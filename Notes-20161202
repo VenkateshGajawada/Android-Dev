@@ -1,0 +1,19 @@
+GIT - Version Control ( Similar to SVN)
+github collabarative tool
+
+
+View History in GIT:
+
+navigate to the folder and enter git log
+
+git diff --> to find the differences between versions
+
+from the log get the commit ids of the versions to compare...
+
+git repository --> collection of files
+
+
+git log --stat (gives the statistics)
+
+installed GIT on my system...
+
