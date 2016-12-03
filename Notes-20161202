@@ -21,3 +21,16 @@ git config --global user.email "gajawada.venky@gmail.com"
 git config --global user.name "venkatesh Gupta"
 
 testing
+
+adding repository to GITHUB
+
+change your working directory to your repository
+
+git remote add origin https://github/venkateshparinayam/Android-Dev.git
+
+
+Branches in version control
+
+git branch ( this will list all the banches created in the repository)
+
+git checkout branchname ( speified branch will be checked out)
