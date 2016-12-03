@@ -34,3 +34,16 @@ Branches in version control
 git branch ( this will list all the banches created in the repository)
 
 git checkout branchname ( speified branch will be checked out)
+
+garbage collector
+
+git -gc
+
+merging and deleting the branches
+
+git show <commitId> --> will give the changes done in parent
+
+git merge <branch1> <branch2>
+
+when we merge two branches, we get some conflicts.
+
