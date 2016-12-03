@@ -47,3 +47,9 @@ git merge <branch1> <branch2>
 
 when we merge two branches, we get some conflicts.
 
+
+git remote <remotenamee>
+
+use push for changes to github or pull from github
+
+
